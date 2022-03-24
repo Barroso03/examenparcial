@@ -12,3 +12,4 @@ class animal():
 print("Ejercicio 2:")   
 print(animal.oviparo())
 print(animal.mamifero())
+# Si es posible implementar estos objetos
